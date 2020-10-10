@@ -1,5 +1,5 @@
 
-### Beginner's Guide to GIT and Github if you'll follow this repo i thing you will get to learn most about it
+### Beginner's Guide to GIT and Github if you'll follow this repo you will get to learn most about them
 
 <div align="center">
   
