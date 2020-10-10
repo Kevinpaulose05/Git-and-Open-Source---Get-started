@@ -1,4 +1,5 @@
- ### Beginner's Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
+<div align = "center">
+### Beginner's Guide to GIT and Github if you'll follow this repo i thing you will get it what you want
 
 <div align="center">
   
