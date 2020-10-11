@@ -1,5 +1,5 @@
 
-### Beginner's Guide to GIT and Github if you'll follow this repo you will get to learn most about them
+### Beginner's Guide to GIT and Github- If you follow this repo you will get to learn most about them
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 </div>
 
 
-<b> This repo will help for those who dont know how to use git and github after complete all the 5 tasks you will be able to contribute to any open source organisation. 
+<b> This repo will help those who don't know how to use git and github. After completing all the 5 tasks you will be able to contribute to any open source organization. 
   
   
 <pre>Task 1:-<a href= "https://docs.google.com/document/d/e/2PACX-1vT9zStM_dMr6GsMS72uNG7PS_x6PBP4RPInt7p8oGkuuNE7Wlu83IxMzVxDquj4yoed8GlsxD09iwSA/pub">Here</a>                                                                            Task 2:-<a href= "https://docs.google.com/document/d/e/2PACX-1vR_jZx66G8VnVkAzD0FtW7S5pChree5kWAztz6qV3ekLOXBDWJ2mCxc4KcknKKMXe8hCeexB8oH2h0O/pub">Here</a>                                       
@@ -17,7 +17,7 @@ Task 4:-<a href= "https://docs.google.com/document/d/e/2PACX-1vSm_uGn6JwWdLcl21X
 
 
 
-Open For Contribution If You Want to! it will be reat if you start working from now and start contributing through this repo:))
+Open For Contribution If You Want to! it will be great if you start working from now and start contributing through this repo:))
 
 ### Start Git Practice  <a href="https://learngitbranching.js.org/">Here</a>
 
@@ -32,16 +32,16 @@ Open For Contribution If You Want to! it will be reat if you start working from 
  
   What is [Open Source](https://www.redhat.com/en/topics/open-source/what-is-open-source)?</div>
  
-You probably heard Name like <b>Open-Source</b>! 
+You have probably heard the term <b>Open-Source</b>! 
   one thing that will hit your mind that what actually is this all about? 
   
   
- #### In simple words:- it is actually a processs in which we first see other's work and then start making changes or add someting new into it!
+ #### In simple words:- it is actually a process in which we first see other's work and then start making changes or add someting new into it!
  
  
- Now here i'm providing some 'How to Contribute first time' Repositries so that you will have some understanding about how Open-source's work Flow:-
+ Now here I'm providing some 'How to Contribute first time' Repositories so that you will have some understanding of Open-source's work Flow:-
  
- 1. <a href="https://github.com/yourfirstpr/yourfirstpr.github.io/issues">Your First Pul Request</a>
+ 1. <a href="https://github.com/yourfirstpr/yourfirstpr.github.io/issues">Your First Pull Request</a>
  2. <a href="https://github.com/mungell/awesome-for-beginners">Awesome For Beginners</a>
  3. <a href="https://up-for-grabs.net/#/">Up For Grabs</a>
  4. <a href="http://issuehub.io/">Issue Hub</a>
@@ -49,6 +49,6 @@ You probably heard Name like <b>Open-Source</b>!
 
 
 
-will be updated with Time! till then Enjoy!
+Will be updated with Time! Till then Enjoy!
 
-<div align="center">Contributores are Welcome! 
+<div align="center">Contributors are Welcome! 
